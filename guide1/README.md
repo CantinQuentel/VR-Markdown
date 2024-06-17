@@ -135,7 +135,7 @@ puis dans la rubrique ***page***
 
 
 enfin selectionner ***select branch*** puis ***Main***
-
+*CODE A MODFIER*
 
 
 <img src="partie1/resources/image/github7.png" alt="Selection site" height="auto" width="550">
